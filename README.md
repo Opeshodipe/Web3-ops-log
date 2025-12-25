@@ -1,2 +1,15 @@
-# Web3-ops-log
-Daily note documenting my web3 operations journey 
+# Web3 Ops Log
+
+This repository documents my daily commitment to learning
+and contributing to Web3 operations and community growth.
+
+## Focus Areas
+- Community operations
+- Discord fundamentals
+- Airdrops & testnets
+- Documentation
+
+## Day 1
+- Reset X profile and positioning
+- Created GitHub and first repository
+- Began Web3 ops journey with intent and consistency
