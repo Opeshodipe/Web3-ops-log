@@ -18,3 +18,10 @@ and contributing to Web3 operations and community growth.
 - Set Web3 Ops positioning
 - Published first learning signal on X
 - Committed to 30 days of consistency
+
+## Day 3 – GitHub Setup
+
+- Created GitHub account
+- Learned repo creation
+- Set up profile README
+- First structured commits
